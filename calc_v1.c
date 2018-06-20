@@ -20,10 +20,7 @@ char ans;
             (c-d==0) ? (printf("Da-da. Vi otvtili werno\n")) : (printf("Shutite?\n"));
             printf("proverim was na znanie tablici umnogenija Y/N\n");
             scanf("\n%c",&ans);
-        }
-        while (ans=='Y');
-    }
-    printf("Do skorih wstrech\n");
+     
  return 0;
 }
 
